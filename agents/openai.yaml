@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片转插画拼接"
+  short_description: "将真实照片裁成3:4，生成签名插画并左右拼接成最终成品"
+  default_prompt: "使用 $photo-illustration-diptych 把我上传的照片生成左侧原照、右侧签名插画的拼接图。"
